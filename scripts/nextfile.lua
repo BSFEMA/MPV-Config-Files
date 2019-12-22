@@ -9,7 +9,7 @@ local settings = {
     linux_over_windows = nil,
 
     --at end of directory jump to start and vice versa
-    allow_looping = true,
+    allow_looping = false,
 
 }
 --check os
