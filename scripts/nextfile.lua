@@ -6,7 +6,7 @@ local settings = {
 'mp3', 'wav', 'ogv', 'flac', 'm4a', 'wma', 'jpg', 'gif', 'png', 'jpeg', 'webp'}, 
 
     --linux(true)/windows(false)/auto(nil)
-    linux_over_windows = nil,
+    linux_over_windows = true,
 
     --at end of directory jump to start and vice versa
     allow_looping = false,
